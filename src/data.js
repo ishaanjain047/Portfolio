@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "React , Node.js and MONGO DB",
     description:
       "Login and Register Page which checks all the details with complete backend server made with Mongo DB ",
-    image: "./assets/loginpreview.png",
+    image: "./assets/loginpreview.jpg",
     link: "https://jsbootcamp.com",
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "React Hooks",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
+    image: "./assets/random.png",
     link: "https://pythonbootcamp.com",
   },
 ];
